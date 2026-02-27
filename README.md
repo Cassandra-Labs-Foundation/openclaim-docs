@@ -24,14 +24,6 @@ Our platform helps ensure that everyday people can access the money they're owed
 [research-participation-consent.md](research-participation-consent.md)
 {% endcontent-ref %}
 
-{% content-ref url="authorized-agent-agreement.md" %}
-[authorized-agent-agreement.md](authorized-agent-agreement.md)
-{% endcontent-ref %}
-
-{% content-ref url="terms-of-service.md" %}
-[terms-of-service.md](terms-of-service.md)
-{% endcontent-ref %}
-
 {% content-ref url="privacy-policy.md" %}
 [privacy-policy.md](privacy-policy.md)
 {% endcontent-ref %}
