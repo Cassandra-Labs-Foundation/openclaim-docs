@@ -1,5 +1,9 @@
 # Research Participation Consent
 
+**Cassandra Labs Foundation, Inc.** A 501(c)(3) Charitable, Educational, and Scientific Organization
+
+***
+
 ### Overview
 
 Cassandra Labs Foundation ("Cassandra Labs," "we," or "us") is a nonprofit research organization dedicated to building public-goods infrastructure and conducting research for the benefit of its members and the public. This Research Participation Consent describes how your data may be used for research if you choose to join the Cassandra Labs Association through OpenClaims.
@@ -94,7 +98,7 @@ Upon withdrawal:
 
 ### 7. Amendments
 
-Cassandra Labs may update this Research Participation Consent from time to time. For non-material changes (formatting, clarifications, updated links), we will update the "Last Updated" date above. For material changes to the scope of data collected, how data is used, or your rights, we will notify you by email and request your re-affirmation of consent before the changes take effect. If you do not re-affirm consent within thirty (30) days of notification, your research participation will be paused until consent is re-affirmed, but your membership will not be affected.
+Cassandra Labs may update this Research Participation Consent from time to time. For material changes to the scope of data collected, how data is used, or your rights, we will notify you by email and request your re-affirmation of consent before the changes take effect. If you do not re-affirm consent within thirty (30) days of notification, your research participation will be paused until consent is re-affirmed, but your membership will not be affected.
 
 ***
 
