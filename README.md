@@ -1,22 +1,22 @@
 # OpenClaim
 
-## OpenClaims
+## OpenClaim
 
-#### About OpenClaims
+#### About OpenClaim
 
-OpenClaims is a claims-recovery platform that helps consumers discover and file class action settlement claims. The platform is offered in partnership with [Cassandra Labs Foundation](https://cassandralabs.org/), a 501(c)(3) nonprofit research organization.
+OpenClaim is a claims-recovery platform that helps consumers discover and file class action settlement claims. The platform is offered in partnership with [Cassandra Labs Foundation](https://cassandralabs.org/), a 501(c)(3) nonprofit research organization.
 
-Every year, billions of dollars in class action settlements go unclaimed because people don't know they're eligible, the claims process is confusing, deadlines pass unnoticed, and forms are difficult to complete. OpenClaims exists to close that gap — making it simple for everyday people to access money they're owed.
+Every year, billions of dollars in class action settlements go unclaimed because people don't know they're eligible, the claims process is confusing, deadlines pass unnoticed, and forms are difficult to complete. OpenClaim exists to close that gap — making it simple for everyday people to access money they're owed.
 
 #### How It Works
 
-OpenClaims provides the technology that matches you with settlements you may be eligible for and helps you file claims. OpenClaims handles all claims processing, submission to settlement administrators, and related technology services.
+OpenClaim provides the technology that matches you with settlements you may be eligible for and helps you file claims. OpenClaim handles all claims processing, submission to settlement administrators, and related technology services.
 
-Cassandra Labs Foundation sponsors OpenClaims as part of its charitable mission to advance access to justice and conduct research on consumer rights recovery. Cassandra Labs does not operate the claims platform, does not take custody of claim proceeds, and does not provide legal advice.
+Cassandra Labs Foundation sponsors OpenClaim as part of its charitable mission to advance access to justice and conduct research on consumer rights recovery. Cassandra Labs does not operate the claims platform, does not take custody of claim proceeds, and does not provide legal advice.
 
 #### Joining the Cassandra Labs Association
 
-Using OpenClaims does not require you to join the [Cassandra Labs Association](https://cassandra-labs.gitbook.io/cassandra-governance). You may discover and file claims without becoming a member.
+Using OpenClaim does not require you to join the [Cassandra Labs Association](https://cassandra-labs.gitbook.io/cassandra-governance). You may discover and file claims without becoming a member.
 
 If you choose to join, your membership supports Cassandra Labs' research mission. As a member, you contribute anonymized data from your claims activity to Cassandra's research on access to justice and consumer rights recovery. This research is published for the benefit of all members and the public.
 
